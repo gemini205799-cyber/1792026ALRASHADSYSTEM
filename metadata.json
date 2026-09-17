@@ -1,0 +1,6 @@
+{
+  "name": "Al-Rashad Hospital EPCMS",
+  "description": "Enterprise Psychiatric & Campus Management System for Al-Rashad Psychiatric Teaching Hospital (مستشفى الرشاد التدريبي للأمراض العقلية), featuring S-EHR, forensic legal boards, quad-meal catering, eMAR pharmacy, 65k archival search, and campus logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
